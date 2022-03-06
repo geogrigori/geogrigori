@@ -21,6 +21,7 @@
 <img align="center" alt="gREDUX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
 <img align="center" alt="gPYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img align="center" alt="gJAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img align="center" alt="gmong" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="right" alt="gGIF" height="150" width="150" src="https://user-images.githubusercontent.com/97214119/156937463-ec3cd892-f152-439e-b4fc-3852db07a617.gif">
              </div>
              
