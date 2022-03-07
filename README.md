@@ -1,21 +1,21 @@
-## Olá! Sou Geovana Grigorio!
 <img align="right" alt="gGIF" height="150" width="150" src="https://user-images.githubusercontent.com/97214119/156937463-ec3cd892-f152-439e-b4fc-3852db07a617.gif">
+
+
+## Olá! Sou Geovana Grigorio!
 
 - 🔭 Hoje trabalho com back-end
 - 🌱 Estudando Ciência da Computação
 - 😄 Pronomes: ela/dela
 
-
-
 ##
 <div>
-   <a href="https://github.com/geogrigori">
-   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=geogrigori&show_icons=true&theme=dracula&iclude_all_commits=true&count_private=true"
-        </div>
-        <a href="https://github.com/geogrigori">
-        <div>
-   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geogrigori&layout=compact&langs_count=16&theme=dracula"/>
-     </div>                     
+   
+<a href="https://github.com/geogrigori">
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=geogrigori&show_icons=true&theme=dracula&iclude_all_commits=true&count_private=true"/>
+<img height= "180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geogrigori&layout=compact&langs_count=16&theme=dracula"/>
+   
+</div>   
+   
 <div style="display: inline_block"> <br>
 <img align="center" alt="gJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="gCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
