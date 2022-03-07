@@ -1,6 +1,5 @@
 <img align="right" alt="gGIF" height="150" width="150" src="https://user-images.githubusercontent.com/97214119/156937463-ec3cd892-f152-439e-b4fc-3852db07a617.gif">
 
-
 ## Olá! Sou Geovana Grigorio!
 
 - 🔭 Hoje trabalho com back-end
