@@ -6,7 +6,6 @@
 - 🌱 Estudando Ciência da Computação
 - 😄 Pronomes: ela/dela
 
-##
 <div>
    
 <a href="https://github.com/geogrigori">
