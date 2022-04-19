@@ -1,8 +1,8 @@
-<img align="right" alt="gGIF" height="150" width="150" src="https://user-images.githubusercontent.com/97214119/156937463-ec3cd892-f152-439e-b4fc-3852db07a617.gif">
+<img align="right" alt="gGIF" height="150" width="150" src="https://user-images.githubusercontent.com/97214119/164109159-6ebfa6cd-2e32-4d03-85c1-5816bf8c108e.gif">
 
 ## Olá! Sou Geovana Grigorio!
 
-- 🔭 Hoje trabalho com back-end
+- 🔭 Hoje trabalho com programação
 - 🌱 Estudando Ciência da Computação
 - 😄 Pronomes: ela/dela
 
