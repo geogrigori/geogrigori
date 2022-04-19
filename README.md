@@ -1,4 +1,4 @@
-<img align="right" alt="gGIF" height="150" width="150" src="https://user-images.githubusercontent.com/97214119/164109159-6ebfa6cd-2e32-4d03-85c1-5816bf8c108e.gif">
+<img align="right" alt="gGIF" height="130" width="130" src="https://user-images.githubusercontent.com/97214119/164109159-6ebfa6cd-2e32-4d03-85c1-5816bf8c108e.gif">
 
 ## Olá! Sou Geovana Grigorio!
 
